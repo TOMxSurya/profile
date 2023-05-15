@@ -310,6 +310,14 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #fff !important;
 }
 
+.fh5co-bg-dark2 {
+  background: #2F3C4F;
+  background: #dfff00;
+}
+.fh5co-bg-dark2 .fh5co-heading h2 {
+  color: #000000 !important;
+}
+
 .info {
   margin: 0;
   padding: 0;
@@ -1286,3 +1294,4 @@ input[type="text"] {
   opacity: 0;
 }
 
+/*# sourceMappingURL=style.css.map */
